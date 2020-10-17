@@ -1,8 +1,8 @@
 # infoMática 
 
 Preparación, puesta en marcha, desarrollo y maquetación de una aplicación web responsive.
-Una web para venta de productos tecnológicos en la nube, donde un usuario podía acceder a la web, visitar y conocer en detalle cada uno de los productos ofertados en el sitio.
-Después, el usuario utiliza una forma de pago para acabar el pedido, o de lo contrario, añadirlo a un carrito para continuar la búsqueda de otros productos y finalizar haciendo uso de la forma de pago establecida.
+Una web para venta de productos tecnológicos en la nube, donde un usuario puede acceder, visitar y conocer en detalle cada uno de los productos ofertados en el sitio.
+Más tarde, el usuario utiliza una forma de pago para acabar el pedido, o de lo contrario, añadirlo a un carrito de compra para continuar la búsqueda de otros productos y finalizar la compra haciendo uso de la forma de pago predefinida.
 
 ## Comenzando 🚀
 
@@ -10,7 +10,7 @@ _Con estas instrucciones podrás levantar una copia del proyecto en funcionamien
 
 ### Pre-requisitos 📋
 
-Para que el sitio web se levante en tu máquina local necesitas un entorno de desarrollo con PHP, en mi caso utilice XAMPP, el cual incluye: sistema de gestión de bases de datos como MariaDB, servidor web Apache y los intérpretes para lenguajes de script PHP y Perl.
+Para que el sitio web se levante en tu máquina local necesitas un entorno de desarrollo con PHP, en mi caso utilice XAMPP, el cual incluye: sistema de gestión de BBDD como MariaDB, servidor web Apache y los intérpretes para lenguajes de script PHP y Perl.
 
 ### Instalación 🔧
 
@@ -32,10 +32,10 @@ _Finaliza con un ejemplo de cómo obtener datos del sistema o como usarlos para 
 
 ## Construido con 🛠️
 
-Llevada a cabo con diferentes tecnologías:
-- Laravel 5.1
-- jQuery
-- BootStrap
-- HTML5, CSS3
+_Este proyecto tuvo una duración estimada de 90 días, tiempo en el que se utilizaron diferentes tecnologías_
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - El framework web usado
+- Laravel 5.1
+- BootStrap 4
+- jQuery
+- HTML 5, CSS 3
+- Paypal API
