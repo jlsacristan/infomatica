@@ -1,8 +1,9 @@
-# infoMática: Proyecto de Desarrollo de Aplicaciones Web
+# infoMática 
+## Proyecto de Desarrollo de Aplicaciones Web
 
-_ Preparación anterior, puesta en marcha y posterior desarrollo de una aplicación Web Responsive.
+Preparación anterior, puesta en marcha y posterior desarrollo de una aplicación Web Responsive.
 Esta aplicación trata de una web para venta de productos tecnológicos en la nube, donde un usuario podía acceder a la web, visitar y conocer en detalle cada uno de los productos ofertados en el sitio.
-Después, el usuario utiliza una forma de pago para acabar el pedido, o de lo contrario, añadirlo a un carrito para continuar la búsqueda de otros productos y finalizar haciendo uso de la forma de pago establecida._
+Después, el usuario utiliza una forma de pago para acabar el pedido, o de lo contrario, añadirlo a un carrito para continuar la búsqueda de otros productos y finalizar haciendo uso de la forma de pago establecida.
 
 ## Comenzando 🚀
 
