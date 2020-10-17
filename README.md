@@ -1,6 +1,8 @@
-# infoMática
+# infoMática: Proyecto de Desarrollo de Aplicaciones Web
 
-_Describa lo que es el proyecto_
+_ Preparación anterior, puesta en marcha y posterior desarrollo de una aplicación Web Responsive.
+Esta aplicación trata de una web para venta de productos tecnológicos en la nube, donde un usuario podía acceder a la web, visitar y conocer en detalle cada uno de los productos ofertados en el sitio.
+Después, el usuario utiliza una forma de pago para acabar el pedido, o de lo contrario, añadirlo a un carrito para continuar la búsqueda de otros productos y finalizar haciendo uso de la forma de pago establecida._
 
 ## Comenzando 🚀
 
@@ -41,8 +43,11 @@ _Agrega notas adicionales sobre como hacer deploy_
 
 ## Construido con 🛠️
 
-_Menciona las herramientas que utilizaste para crear tu proyecto_
+_Llevada a cabo con diferentes tecnologías:
+- Laravel 5.1
+- jQuery
+- BootStrap
+- HTML5, CSS3
+etc..._
 
 * [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - El framework web usado
-* [Maven](https://maven.apache.org/) - Manejador de dependencias
-* [ROME](https://rometools.github.io/rome/) - Usado para generar RSS
