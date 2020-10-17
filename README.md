@@ -6,7 +6,7 @@ Después, el usuario utiliza una forma de pago para acabar el pedido, o de lo co
 
 ## Comenzando 🚀
 
-_ Con estas instrucciones podrás levantar una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y/o pruebas._
+_Con estas instrucciones podrás levantar una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y/o pruebas._
 
 ### Pre-requisitos 📋
 
