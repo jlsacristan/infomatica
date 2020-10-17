@@ -1,15 +1,12 @@
 # infoMática 
 
-Preparación, puesta en marcha y desarrollo y/o maquetación de una aplicación web responsive.
+Preparación, puesta en marcha, desarrollo y maquetación de una aplicación web responsive.
 Una web para venta de productos tecnológicos en la nube, donde un usuario podía acceder a la web, visitar y conocer en detalle cada uno de los productos ofertados en el sitio.
 Después, el usuario utiliza una forma de pago para acabar el pedido, o de lo contrario, añadirlo a un carrito para continuar la búsqueda de otros productos y finalizar haciendo uso de la forma de pago establecida.
 
 ## Comenzando 🚀
 
-_Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
-
-Mira **Deployment** para conocer como desplegar el proyecto.
-
+_ Con estas instrucciones podrás levantar una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y/o pruebas._
 
 ### Pre-requisitos 📋
 
@@ -32,10 +29,6 @@ hasta finalizar
 ```
 
 _Finaliza con un ejemplo de cómo obtener datos del sistema o como usarlos para una pequeña demo_
-
-## Despliegue 📦
-
-_Agrega notas adicionales sobre como hacer deploy_
 
 ## Construido con 🛠️
 
